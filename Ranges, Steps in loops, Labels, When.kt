@@ -12,6 +12,10 @@ fun main() {
     }
 
 
+ for (i in (10 downTo 8)) {
+     println(i)
+ }
+
 }
 
 

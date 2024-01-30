@@ -1,6 +1,6 @@
 fun main() {
 
-    val Batteryvolume = 0
+    val Batteryvolume = 10
 
     when (Batteryvolume) {
         100 -> {

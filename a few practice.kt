@@ -2,7 +2,7 @@ fun main() {
     println("Hello")
 
 
-    var a: Byte = 43
+    var a: Byte = 44
     var b: Short = 257
     var c = a + b
     var d = a.toShort() + b.toFloat()
